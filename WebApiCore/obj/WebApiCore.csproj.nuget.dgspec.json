@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Applications_bob\\Webapps\\WebApiCore\\WebApiCore\\WebApiCore.csproj": {}
+    "G:\\Applications_bob\\Webapps\\Git\\WebApiCore\\WebApiCore\\WebApiCore.csproj": {}
   },
   "projects": {
-    "G:\\Applications_bob\\Webapps\\WebApiCore\\WebApiCore\\WebApiCore.csproj": {
+    "G:\\Applications_bob\\Webapps\\Git\\WebApiCore\\WebApiCore\\WebApiCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Applications_bob\\Webapps\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
+        "projectUniqueName": "G:\\Applications_bob\\Webapps\\Git\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
         "projectName": "WebApiCore",
-        "projectPath": "G:\\Applications_bob\\Webapps\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
+        "projectPath": "G:\\Applications_bob\\Webapps\\Git\\WebApiCore\\WebApiCore\\WebApiCore.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "G:\\Applications_bob\\Webapps\\WebApiCore\\WebApiCore\\obj\\",
+        "outputPath": "G:\\Applications_bob\\Webapps\\Git\\WebApiCore\\WebApiCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
